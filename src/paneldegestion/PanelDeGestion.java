@@ -245,6 +245,7 @@ public class PanelDeGestion extends javax.swing.JFrame {
             } catch (FileNotFoundException ex) {
                     Logger.getLogger(PanelDeGestion.class.getName()).log(Level.SEVERE, null, ex);
             }
+            TituloEntrada.setText(""); // Pone en blanco la casilla de tutilo de la entidad despues de guardar un registro
         }
     }//GEN-LAST:event_GuardarActionPerformed
 
