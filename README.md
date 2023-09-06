@@ -25,7 +25,7 @@ Antes de ejecutar el programa, asegúrate de seguir estos pasos:
        ```
 
 3. **Ejecución**:
-   - Ejecuta la clase `SistemaDeGestionUniversitario.java` para iniciar la aplicación desde NetBeans.
+   - Ejecuta la clase `Principal.java` para iniciar la aplicación desde NetBeans.
    - Ingresa las credenciales de usuario y contraseña en la ventana de inicio de sesión.
 
 4. **Registro de Entidades**:
